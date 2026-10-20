@@ -12,9 +12,6 @@ def multiply(a, b):
     
 def subtrach(a, b):
     return a-b
-
-def multiply(a,b):
-    return a*b
     
 >>>>>>> origin/main
 def divide(a, b):
